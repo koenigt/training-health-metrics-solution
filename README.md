@@ -28,3 +28,5 @@ Please keep in mind that the endpoints might change in case the application is r
 - http://localhost:8080/api/count
 - http://localhost:8080/actuator/metrics/business.counter
 - http://localhost:8080/actuator/metrics/business.timer
+
+SSH-REMOTE-KEY-UPDATE
